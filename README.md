@@ -48,7 +48,7 @@
 <a href="https://www.linkedin.com/in/sarwar1227/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sarwar%20Ali-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://instagram.com/sarwar_a_1227"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@sarwar_a_1227-blue?style=flat-square&logo=instagram"></a>
 <a href="yoyo.sarwar29@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yoyo.sarwar29@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.youtube.com/sarwarali1227"><img alt="Instagram" src="https://img.shields.io/badge/Youtube-Sarwar%20Ali-yellow?style=flat-square&logo=youtube"></a>
+<a href="https://www.youtube.com/sarwarali1227"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Sarwar%20Ali-blue?style=flat-square&logo=youtube"></a>
 </p>
 
 ⭐️ From [Sarwar](https://github.com/sarwar1227)
