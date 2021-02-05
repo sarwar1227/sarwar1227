@@ -7,6 +7,7 @@
 - 💼 &nbsp; Working as a Student Mentor & Content Creator at Intrepid Geeks.
 - 🌱 &nbsp; Learning more about Full-Stack Web Development(MERN).
 - ✍️ &nbsp; Pursuing Youtube and Reading Books as hobbies/side hustles.
+- 🏏 &nbsp; Loves to play outdoor sports like cricket & athletics.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
