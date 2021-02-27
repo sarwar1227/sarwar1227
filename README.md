@@ -50,6 +50,7 @@
 <a href="https://instagram.com/sarwar_a_1227"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@sarwar_a_1227-blue?style=flat-square&logo=instagram"></a>
 <a href="yoyo.sarwar29@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yoyo.sarwar29@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.youtube.com/sarwarali1227"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Sarwar%20Ali-blue?style=flat-square&logo=youtube"></a>
+<a href="https://linktr.ee/sarwar1227"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-Sarwar%20Ali-green?style=flat-square&logo=linktree"></a>
 </p>
 
 <h3> 💻 &nbsp;Coding Profiles </h3>
