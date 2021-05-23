@@ -10,15 +10,6 @@
 - 🌱 &nbsp; Learning more about Full-Stack Web Development(MERN).
 - ✍️ &nbsp; Pursuing Youtube , Freelance Video Editing and Reading Books as hobbies/side hustles.
 - 🏏 &nbsp; Loves to play outdoor sports like cricket & athletics.
-
- <details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
-
-</details>
-
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -53,6 +44,14 @@
 
 <br/>
 
+<details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sarwar1227&show_icons=true&theme=gotham" alt="Sarwar Ali | Stats" />
+
+</details>
+
+ ![Visitor Count](https://profile-counter.glitch.me/{sarwar1227}/count.svg)
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
