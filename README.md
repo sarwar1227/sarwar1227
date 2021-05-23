@@ -1,5 +1,7 @@
 <h2> Hey there! 🙋‍♂️  I'm Sarwar.</h2>
 
+![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover.png)
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
