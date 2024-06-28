@@ -6,7 +6,7 @@
 <h2> 👨🏻‍💻 &nbsp;Experience </h2>
 <h3> &nbsp;Josh Technology Group | Gurguram, Haryana </h3>
 
-<h5> &nbsp;Senior Frontend Developer-1 | Oct 2023 - Present </h5>
+<h4> &nbsp;Senior Frontend Developer-1 | Oct 2023 - Present </h4>
 
 - Led implementation of payment methods using Stripe in the React dispensary checkout web app, ensuring secure & seamless transactions, resulting in a 15% increase in completed transactions.
   
@@ -28,7 +28,7 @@
 
 <h3> &nbsp;Josh Technology Group | Gurguram, Haryana </h3>
 
-<h5> &nbsp;Frontend Developer + Intern | Sept 2021 - Oct 2023 </h5>
+<h4> &nbsp;Frontend Developer + Intern | Sept 2021 - Oct 2023 </h4>
 
 - Led full-stack development of an E-Commerce checkout feature for the dispensary web app using React, Redux, MUI, RHF & RTK Query, seamlessly integrating it with recommendation builder, empowering practitioners to conveniently place orders, resulting in an 80% increase in satisfaction level.
 
