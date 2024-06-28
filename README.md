@@ -2,15 +2,36 @@
 
 ![alt text](https://github.com/sarwar1227/sarwar1227/blob/main/cover.png)
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;Experience </h3>
 
+<h2> 👨🏻‍💻 &nbsp;Experience </h2>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying B.Tech( Information Technology ) at HMRITM( GGSIPU ).
 - 💼 &nbsp; Working as a Student Mentor & Content Creator at Intrepid Geeks.
 - 🌱 &nbsp; Learning more about Full-Stack Web Development(MERN).
 - ✍️ &nbsp; Pursuing Youtube , Freelance Video Editing and Reading Books as hobbies/side hustles.
 - 🏏 &nbsp; Loves to play outdoor sports like cricket & athletics.
- 
+- 
+<h3> 👨🏻‍💻 &nbsp;Senior Frontend Developer-1 </h3>
+
+- Led implementation of payment methods using Stripe in the React dispensary checkout web app, ensuring secure & seamless transactions, resulting in a 15% increase in completed transactions.
+  
+- Leading migration of all clinical admin features from HTML, CSS, LESS, and JQuery to React & REST APIs, driving client-side rendering & headless application architecture adoption.
+
+- Leading developers by gathering requirements, creating delivery plans, assigning work in sprints, conducting rigorous code reviews, ensuring timely delivery, & enforcing industry best practices for frontend development.
+
+- Successfully launched the Self-Curation feature for a clinical admin web app, providing practitioners with an e-commerce platform to manage supplements for sale or recommendation. Developed with React and Redux, leading to a 50% increase in practitioner satisfaction, and currently utilized by over 15+ practitioners.
+
+- Revamped the clinical admin order builder UI/UX for practitioners by implementing tab-based filtering, pagination, advanced filtering options, and DOM caching improving the overall order flow efficiency by 50%.
+
+- Orchestrated a seamless deployment process using AWS EFS for serving a react application on multiple AWS EC2 instances while ensuring secure access through IP restrictions, resulting in a highly robust and reliable web application.
+
+- Integrated Sentry and Error Boundary with React for efficient error tracking and resolution.
+
+- Resolved routing complexities in a server-side rendered Magento 2 environment by implementing HashRouter for seamless integration of client-side react routing. By implementing this innovative approach, we achieved unparalleled flexibility, catering efficiently to the need for a combined parallel routing.
+
+- Ensured a high-quality user experience and code maintainability by implementing comprehensive frontend tests using Jest and RTL for unit testing, and Cypress for end-to-end testing, which reduced sentries by over 30%.
+  
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
