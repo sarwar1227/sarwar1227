@@ -1,6 +1,5 @@
 <h2> Hey there! 🙋‍♂️  I'm Sarwar.</h2>
 
-![alt text](https://github.com/sarwar1227/sarwar1227/blob/main/cover.png)
 ![alt text](https://github.com/sarwar1227/sarwar1227/assets/47899529/60d7e278-003d-4007-9543-475a8d03f37a)
 
 
