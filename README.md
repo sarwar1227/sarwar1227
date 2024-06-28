@@ -2,17 +2,10 @@
 
 ![alt text](https://github.com/sarwar1227/sarwar1227/blob/main/cover.png)
 
-<h3> 👨🏻‍💻 &nbsp;Experience </h3>
-
 <h2> 👨🏻‍💻 &nbsp;Experience </h2>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying B.Tech( Information Technology ) at HMRITM( GGSIPU ).
-- 💼 &nbsp; Working as a Student Mentor & Content Creator at Intrepid Geeks.
-- 🌱 &nbsp; Learning more about Full-Stack Web Development(MERN).
-- ✍️ &nbsp; Pursuing Youtube , Freelance Video Editing and Reading Books as hobbies/side hustles.
-- 🏏 &nbsp; Loves to play outdoor sports like cricket & athletics.
-- 
-<h3> 👨🏻‍💻 &nbsp;Senior Frontend Developer-1 </h3>
+<h3> &nbsp;Josh Technology Group | Gurguram, Haryana </h3>
+
+<h5> &nbsp;Senior Frontend Developer-1 | Oct 2023 - Present </h5>
 
 - Led implementation of payment methods using Stripe in the React dispensary checkout web app, ensuring secure & seamless transactions, resulting in a 15% increase in completed transactions.
   
@@ -31,15 +24,28 @@
 - Resolved routing complexities in a server-side rendered Magento 2 environment by implementing HashRouter for seamless integration of client-side react routing. By implementing this innovative approach, we achieved unparalleled flexibility, catering efficiently to the need for a combined parallel routing.
 
 - Ensured a high-quality user experience and code maintainability by implementing comprehensive frontend tests using Jest and RTL for unit testing, and Cypress for end-to-end testing, which reduced sentries by over 30%.
-  
+
+<h3> &nbsp;Josh Technology Group | Gurguram, Haryana </h3>
+
+<h5> &nbsp;Frontend Developer + Intern | Sept 2021 - Oct 2023 </h5>
+
+- Led full-stack development of an E-Commerce checkout feature for the dispensary web app using React, Redux, MUI, RHF & RTK Query, seamlessly integrating it with recommendation builder, empowering practitioners to conveniently place orders, resulting in an 80% increase in satisfaction level.
+
+- Successfully implemented the Recommendation Builder feature for the dispensary web app, enabling practitioners to efficiently create and send recommendations to patients or place orders directly. Developed using React and Redux, resulting in a notable 20% increase in orders and a 90% reduction in bugs. Currently adopted by over 15+ practitioners.
+
+- Implemented MedPax Builder feature in the dispensary web app, transforming medication management with customized packs, precise dosages, and timings, reducing wastage and enhancing patient convenience. Utilized React and Redux, resulting in a 70% increase in MedPax orders. Used by over 5+ practitioners.
+
+- Optimized loading times of the React application by 40% through optimization of the Webpack build configuration, implementation of lazy loading, and utilization of code-splitting techniques.
+
+- Built a React-TypeScript web application for clinic admin dispensary from scratch, integrating a robust UI components library to enhance scalability and flexibility.
+
+- Proficiently used Slack, Google Meet, & Jira for remote team coordination, ensuring smooth project delivery.
+
+- Adept at eliciting end-to-end requirements from stakeholders, offering UI suggestions, enhancing product functionality & user experience.
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=blueviolet)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00589C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007386)
-- 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -55,8 +61,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=eclipse-ide&logoColor=2C2245)
 <br/>
 
 <a href="https://github.com/sarwar1227">
