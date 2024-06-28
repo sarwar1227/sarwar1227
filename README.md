@@ -4,9 +4,8 @@
 
 
 <h2> 👨🏻‍💻 &nbsp;Experience </h2>
-<h3> &nbsp;Josh Technology Group | Gurguram, Haryana </h3>
-
-<h4> &nbsp;Senior Frontend Developer-1 | Oct 2023 - Present </h4>
+<h3> &nbsp;Senior Frontend Developer-1 | Oct 2023 - Present</h3>
+<h4> &nbsp;Josh Technology Group | Gurguram, Haryana</h4>
 
 - Led implementation of payment methods using Stripe in the React dispensary checkout web app, ensuring secure & seamless transactions, resulting in a 15% increase in completed transactions.
   
@@ -25,10 +24,9 @@
 - Resolved routing complexities in a server-side rendered Magento 2 environment by implementing HashRouter for seamless integration of client-side react routing. By implementing this innovative approach, we achieved unparalleled flexibility, catering efficiently to the need for a combined parallel routing.
 
 - Ensured a high-quality user experience and code maintainability by implementing comprehensive frontend tests using Jest and RTL for unit testing, and Cypress for end-to-end testing, which reduced sentries by over 30%.
-
-<h3> &nbsp;Josh Technology Group | Gurguram, Haryana </h3>
-
-<h4> &nbsp;Frontend Developer + Intern | Sept 2021 - Oct 2023 </h4>
+  
+<h3> &nbsp;Frontend Developer + Intern | Sept 2021 - Oct 2023</h3>
+<h4> &nbsp;Josh Technology Group | Gurguram, Haryana</h4>
 
 - Led full-stack development of an E-Commerce checkout feature for the dispensary web app using React, Redux, MUI, RHF & RTK Query, seamlessly integrating it with recommendation builder, empowering practitioners to conveniently place orders, resulting in an 80% increase in satisfaction level.
 
