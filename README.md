@@ -1,7 +1,14 @@
-<h2> Hey there! 🙋‍♂️  I'm Sarwar.</h2>
-
-![alt text](https://github.com/sarwar1227/sarwar1227/assets/47899529/60d7e278-003d-4007-9543-475a8d03f37a)
-
+<h1> 🌟Sarwar Ali - Front-End Developer🌟</h1>
+<p>
+Energetic Front-End Developer with over 2 years of professional experience focusing on React-based applications. Proficient with
+JavaScript, TypeScript, and Git. Proven track record of building and optimizing web applications for the enterprise platform. Proven
+ability to integrate seamlessly into diverse teams. Looking forward to adding value through my passion and expertise.
+</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/sarwar1227/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/sarwar1227"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="mailto:yoyo.sarwar29@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
+</p>
 
 <h2> 👨🏻‍💻 &nbsp;Experience </h2>
 <h3> &nbsp;Senior Frontend Developer-1 | Oct 2023 - Present</h3>
@@ -42,23 +49,31 @@
 
 - Adept at eliciting end-to-end requirements from stakeholders, offering UI suggestions, enhancing product functionality & user experience.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Skills</h3>
 
 - 💻 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=MUI)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
+  ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
+  ![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)
+  ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
+  ![AWS](https://img.shields.io/badge/-Aws-333333?style=flat&logo=aws)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+- 🔧 &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
@@ -77,20 +92,5 @@
 </details>
 
  ![Visitor Count](https://profile-counter.glitch.me/{sarwar1227}/count.svg)
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://createwithinnovation.blogspot.com/"><img alt="Website" src="https://img.shields.io/badge/Website-createwithinnovation.blogspot.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sarwar1227/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sarwar%20Ali-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://instagram.com/sarwar_a_1227"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@sarwar_a_1227-blue?style=flat-square&logo=instagram"></a>
-<a href="yoyo.sarwar29@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yoyo.sarwar29@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.youtube.com/sarwarali1227"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Sarwar%20Ali-blue?style=flat-square&logo=youtube"></a>
-<a href="https://linktr.ee/sarwar1227"><img alt="Linktree" src="https://img.shields.io/badge/Linktree-Sarwar%20Ali-green?style=flat-square&logo=linktree"></a>
-</p>
-
-<h3> 💻 &nbsp;Coding Profiles </h3>
-<p align="center">
-<a href="https://www.hackerrank.com/yoyo_sarwar29"><img alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-Sarwar%20Ali-success?style=flat-square&logo=hackerrank"></a>
-<a href="https://auth.geeksforgeeks.org/user/sarwarali/profile"><img alt="GeeksForGeeks" src="https://img.shields.io/badge/GeeksForGeeks-Sarwar%20Ali-success?style=flat-square&logo=geeksforgeeks"></a>
-</p>
-⭐️ From [Sarwar1227](https://github.com/sarwar1227)
+❤️ From [Sarwar Ali](https://github.com/sarwar1227)
