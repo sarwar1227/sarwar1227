@@ -5,10 +5,10 @@ JavaScript, TypeScript, and Git. Proven track record of building and optimizing 
 ability to integrate seamlessly into diverse teams. Looking forward to adding value through my passion and expertise.
 </p>
 <p align="left">
-<a href="https://sarwarali.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=about.me"></a>
 <a href="https://www.linkedin.com/in/sarwar1227/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://github.com/sarwar1227" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 <a href="mailto:yoyo.sarwar29@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
+<a href="https://sarwarali.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=about.me"></a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;Work Experience </h2>
