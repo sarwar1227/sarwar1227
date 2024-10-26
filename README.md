@@ -10,7 +10,7 @@ ability to integrate seamlessly into diverse teams. Looking forward to adding va
 <a href="mailto:yoyo.sarwar29@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;Experience </h2>
+<h2> 👨🏻‍💻 &nbsp;Work Experience </h2>
 <h3> &nbsp;Senior Frontend Developer-1 | Oct 2023 - Present</h3>
 <h4> &nbsp;Josh Technology Group | Gurguram, Haryana</h4>
 
