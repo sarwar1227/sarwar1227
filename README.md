@@ -14,40 +14,52 @@ ability to integrate seamlessly into diverse teams. Looking forward to adding va
 <h3> &nbsp;Senior Frontend Developer-1 | Oct 2023 - Present</h3>
 <h4> &nbsp;Josh Technology Group | Gurguram, Haryana</h4>
 
-- Led implementation of payment methods using Stripe in the React dispensary checkout web app, ensuring secure & seamless transactions, resulting in a 15% increase in completed transactions.
+- Led the migration of Magento-rendered server-side pages from HTML, CSS, LESS, and jQuery to React and REST APIs, enhancing client-side rendering and adopting a headless architecture.
+
+- Managed a team of 3 developers in refining coding standards for client-side rendering, reducing technical debt by 15% and bug reports by 40%, ensuring UI consistency.
+
+- Orchestrated a seamless deployment process using AWS EFS for serving a React application on multiple AWS EC2 instances, ensuring high availability and secure access through IP restrictions.
+
+- Mentored developers in rigorous code reviews, emphasizing best industry practices for front-end development to ensure top-tier quality.
+
+- Achieved nearly a 50% reduction in development time using ESBuild for React applications and reduced webpage loading time by 40% through build optimizations, lazy loading, and code-splitting.
+
+- Resolved routing complexities in a server-side rendered Magento 2 environment by implementing HashRouter for seamless client-side React routing, enhancing flexibility for combined parallel routing.
+
+- Ensured a high-quality user experience and code maintainability by implementing comprehensive front-end tests using Jest and RTL for unit testing, and Cypress for end-to-end testing, reducing sentries by over 30%.
+
+- Provided precise time estimates and task breakdowns for features, averaging 500 hours per project, optimizing planning and execution.
+
+- Adept at eliciting end-to-end requirements from stakeholders and offering impactful UI suggestions to enhance product functionality and elevate user experience.
   
-- Leading migration of all clinical admin features from HTML, CSS, LESS, and JQuery to React & REST APIs, driving client-side rendering & headless application architecture adoption.
+<h3> &nbsp;Frontend Developer | July 2022 - Sept 2023</h3>
+<h4> &nbsp;Josh Technology Group | Gurguram, Haryana</h4>
 
-- Leading developers by gathering requirements, creating delivery plans, assigning work in sprints, conducting rigorous code reviews, ensuring timely delivery, & enforcing industry best practices for frontend development.
+- Developed 100+ intricate components using MUI5 (Material UI), React, and TypeScript, meticulously displayed in StoryBook for comprehensive understanding of component props and visual representation.
 
-- Successfully launched the Self-Curation feature for a clinical admin web app, providing practitioners with an e-commerce platform to manage supplements for sale or recommendation. Developed with React and Redux, leading to a 50% increase in practitioner satisfaction, and currently utilized by over 15+ practitioners.
-
-- Revamped the clinical admin order builder UI/UX for practitioners by implementing tab-based filtering, pagination, advanced filtering options, and DOM caching improving the overall order flow efficiency by 50%.
-
-- Orchestrated a seamless deployment process using AWS EFS for serving a react application on multiple AWS EC2 instances while ensuring secure access through IP restrictions, resulting in a highly robust and reliable web application.
+- Conducted performance testing to target and optimize frontend bottlenecks, ensuring seamless user experience.
 
 - Integrated Sentry and Error Boundary with React for efficient error tracking and resolution.
 
-- Resolved routing complexities in a server-side rendered Magento 2 environment by implementing HashRouter for seamless integration of client-side react routing. By implementing this innovative approach, we achieved unparalleled flexibility, catering efficiently to the need for a combined parallel routing.
+- Leveraged RTK Query for 30% faster performance, resulting in 20% quicker page load times, optimizing website efficiency.
 
-- Ensured a high-quality user experience and code maintainability by implementing comprehensive frontend tests using Jest and RTL for unit testing, and Cypress for end-to-end testing, which reduced sentries by over 30%.
-  
-<h3> &nbsp;Frontend Developer + Intern | Sept 2021 - Oct 2023</h3>
+- Spearheaded the implementation of critical features and bug fixes in React, Redux, and TypeScript, resulting in a 15% increase in user engagement.
+
+- Applied React Hook Form with Yup for precise form validation, enhancing UX by reducing errors by 20%, streamlining customer support, and boosting developer efficiency.
+
+- Restructured application code style, reducing development time by 20% through SOLID principles.
+
+- Utilized Slack, Zoom, and Jira proficiently to coordinate remote teams, ensuring smooth project delivery.
+
+- <h3> &nbsp;Frontend Developer Intern | Sept 2021 - June 2022</h3>
 <h4> &nbsp;Josh Technology Group | Gurguram, Haryana</h4>
 
-- Led full-stack development of an E-Commerce checkout feature for the dispensary web app using React, Redux, MUI, RHF & RTK Query, seamlessly integrating it with recommendation builder, empowering practitioners to conveniently place orders, resulting in an 80% increase in satisfaction level.
+- Developed production-level code using technologies such as HTML, CSS/SASS, JavaScript/JQuery, React, and Redux, enhancing application performance and maintainability.
 
-- Successfully implemented the Recommendation Builder feature for the dispensary web app, enabling practitioners to efficiently create and send recommendations to patients or place orders directly. Developed using React and Redux, resulting in a notable 20% increase in orders and a 90% reduction in bugs. Currently adopted by over 15+ practitioners.
+- Optimized data flow with Redux and Thunk for real-time synchronization, providing users with accurate, up-to-date information, and cutting data retrieval time by 10%, significantly improving overall user experience.
 
-- Implemented MedPax Builder feature in the dispensary web app, transforming medication management with customized packs, precise dosages, and timings, reducing wastage and enhancing patient convenience. Utilized React and Redux, resulting in a 70% increase in MedPax orders. Used by over 5+ practitioners.
+- Collaborated with UX/UI designers to create intuitive and responsive interfaces for the web platform, boosting user satisfaction scores by 15%.
 
-- Optimized loading times of the React application by 40% through optimization of the Webpack build configuration, implementation of lazy loading, and utilization of code-splitting techniques.
-
-- Built a React-TypeScript web application for clinic admin dispensary from scratch, integrating a robust UI components library to enhance scalability and flexibility.
-
-- Proficiently used Slack, Google Meet, & Jira for remote team coordination, ensuring smooth project delivery.
-
-- Adept at eliciting end-to-end requirements from stakeholders, offering UI suggestions, enhancing product functionality & user experience.
 
 <h3> 🛠 &nbsp;Skills</h3>
 
